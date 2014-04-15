@@ -43,6 +43,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entities\Entity.cs" />
+    <Compile Include="Entities\CompositeEntity.cs" />
+    <Compile Include="Entities\Simulation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

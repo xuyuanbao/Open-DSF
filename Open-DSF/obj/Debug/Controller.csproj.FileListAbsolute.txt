@@ -1,0 +1,13 @@
+E:\Source\Open-DSF\Open-DSF\bin\Debug\Open-DSF.exe.config
+E:\Source\Open-DSF\Open-DSF\bin\Debug\Open-DSF.exe
+E:\Source\Open-DSF\Open-DSF\bin\Debug\Open-DSF.pdb
+E:\Source\Open-DSF\Open-DSF\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+E:\Source\Open-DSF\Open-DSF\obj\Debug\MainWindow.baml
+E:\Source\Open-DSF\Open-DSF\obj\Debug\MainWindow.g.cs
+E:\Source\Open-DSF\Open-DSF\obj\Debug\App.g.cs
+E:\Source\Open-DSF\Open-DSF\obj\Debug\Open-DSF_MarkupCompile.cache
+E:\Source\Open-DSF\Open-DSF\obj\Debug\Open-DSF.g.resources
+E:\Source\Open-DSF\Open-DSF\obj\Debug\Open_DSF.Properties.Resources.resources
+E:\Source\Open-DSF\Open-DSF\obj\Debug\Controller.csproj.GenerateResource.Cache
+E:\Source\Open-DSF\Open-DSF\obj\Debug\Open-DSF.exe
+E:\Source\Open-DSF\Open-DSF\obj\Debug\Open-DSF.pdb

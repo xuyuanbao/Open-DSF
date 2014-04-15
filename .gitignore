@@ -1,3 +1,5 @@
 *.cache
 /Common/obj/Debug
 /*.suo
+/Common/bin/Debug
+/Open-DSF/bin/Debug

@@ -8,8 +8,10 @@ namespace OpenDSF.Common
 {
     public interface Entity
     {
-        public long EntityID { get; set; }
+        // This ID is unique for a given simulation
+        long EntityID { get; }
 
-        public Entity Parent { get; set; }
+        // Being a parent of an entity implies you "contain" it
+        Entity Parent { get; set; }
     }
 }
