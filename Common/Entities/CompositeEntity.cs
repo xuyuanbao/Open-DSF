@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Common.Entities
+namespace OpenDSF.Common.Entities
 {
-    interface CompositeEntity : ICollection<Entity>, Entity
+    interface CompositeEntity :  Entity, ICollection<Entity>
     {
     }
 }
